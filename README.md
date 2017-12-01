@@ -1,6 +1,5 @@
 # ZoostormW76KLinuxConfig
-A Linux Kernel Config Built for the Zoostorm W76K. Pretty Rice For Ubuntu!
-http://funroll-loops.teurasporsaat.org/
+A Linux Kernel Config Built for the Zoostorm W76K.
 
 squeezing every last drop outta the clocks. 
 
